@@ -258,7 +258,7 @@ public class SimpleOCR extends JFrame implements Runnable {
 
     public SimpleOCR() {
         setResizable(false);
-        setTitle("NetOCR");
+        setTitle("SimpleOCR");
         setPreferredSize(new Dimension(730, 470));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout(FlowLayout.LEADING, 0, 0));
